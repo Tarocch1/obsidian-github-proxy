@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-github-proxy",
+  "name": "GitHub Proxy",
+  "version": "0.0.1",
+  "minAppVersion": "0.12.0",
+  "description": "提供代理。",
+  "author": "Tarocch1",
+  "authorUrl": "https://www.tarocch1.com",
+  "isDesktopOnly": true
+}
