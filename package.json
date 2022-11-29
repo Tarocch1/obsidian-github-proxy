@@ -12,7 +12,7 @@
   "devDependencies": {
     "@types/node": "^18.0.5",
     "builtin-modules": "^3.3.0",
-    "electron": "^19.0.8",
+    "electron": "^19.0.11",
     "esbuild": "^0.14.49",
     "obsidian": "^0.15.4",
     "tslib": "^2.4.0",
